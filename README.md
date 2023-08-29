@@ -1,3 +1,19 @@
+1. react-router-dom
+2. react-dom
+3. recoil
+4. react-query
+5. react-helmet-async
+6. axios
+7. prop-types
+8. styled-components
+
+---
+
+1. homescreens 생성
+2. router 생성
+3. header 생성
+4. css 작업
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
