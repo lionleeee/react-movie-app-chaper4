@@ -1,8 +1,8 @@
-1. Moive 생성
-2. npm install @fortawesome/free-solid-svg-icons
-3. npm i @fortawesome/react-fontawesome
-4. npm install @types/lodash
-5. 인피니티 스크롤
+1. Detail Page
+2. Router 설정
+3. with Router 설정
+4. Detail 페이지 개발
+5. 배포
 
 # Getting Started with Create React App
 
