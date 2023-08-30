@@ -1,6 +1,8 @@
-1. Description 생성
-2. QnA 생성
-3. Footer 생성
+1. Moive 생성
+2. npm install @fortawesome/free-solid-svg-icons
+3. npm i @fortawesome/react-fontawesome
+4. npm install @types/lodash
+5. 인피니티 스크롤
 
 # Getting Started with Create React App
 
